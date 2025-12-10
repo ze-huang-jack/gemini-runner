@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1DDKpVRG0uTTTOGwpr5NRSM
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## tauri windows desktop build 
+1. npm install -g @tauri-apps/cli
+2. tauri init
+3. tauri build 
